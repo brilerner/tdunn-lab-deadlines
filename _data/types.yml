@@ -1,4 +1,10 @@
 ---
+- name: Healthcare
+  sub: HC
+  color: "#b777da"
+- name: Medical Imaging
+  sub: MI
+  color: "#1f7a8e"
 - name: Machine Learning
   sub: ML
   color: "#ffd300"
@@ -26,7 +32,3 @@
 - name: Knowledge Representation
   sub: KR
   color: "#32a855"
-- name: Knowledge Representation
-  sub: KR
-  color: "#32a855"
-  

@@ -1687,3 +1687,46 @@
   end: 2023-09-08
   sub: NLP
   note: Explore cutting-edge AI topics like ChatGPT, AutoGPT, DALL-E, Midjourney and more at AI World Barcelona — the world's largest generative AI conference.
+
+
+- title: MLHC
+  year: 2023
+  id: mlhc23  # title as lower case + last two digits of year
+  full_name: Machine Learning for Healthcare # full conference name
+  link: https://www.mlforhc.org/
+  deadline: '2023-04-24 23:59:59'
+  timezone: AOE
+  place: New York, NY
+  date: August, 11-12, 2023
+  start: 2023-08-11
+  end: 2023-08-12
+  sub: HC
+  note: MLHC is an annual research meeting that exists to bring together two usually insular disciplines- computer scientists with artificial intelligence, machine learning, and big data expertise, and clinicians/medical researchers. 
+
+- title: ICMLA
+  year: 2023
+  id: icmla23
+  full_name: International Conference on Machine Learning and Applications
+  link: https://www.icmla-conference.org/icmla23/
+  deadline: 2023-07-15 23:59
+  place: Florida, USA
+  date: December 15 - 17, 2023
+  start: 2023-12-15
+  end: 2023-12-17
+  sub: ML
+  # ranking: C
+  # ranking_link: http://portal.core.edu.au/conf-ranks/1122
+  # wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=171992&copyownerid=179773
+
+- title: SSCI
+  year: 2023
+  id: ssci23
+  full_name: 2023 IEEE Symposium Series on Computational Intelligence
+  link: https://attend.ieee.org/ssci-2023/
+  deadline: 2023-06-30 23:59
+  place: Mexico City, Mexico
+  date: December 5 - 8, 2023
+  start: 2023-12-05
+  end: 2023-12-08
+  # sub: ML
+  # wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=152340&copyownerid=13149
